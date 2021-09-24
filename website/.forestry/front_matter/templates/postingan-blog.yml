@@ -27,4 +27,5 @@ fields:
   name: toc
   label: toc
 pages:
+- website/content/blog/Perkenalan taufik.md
 - website/content/blog/pengenalan.md
