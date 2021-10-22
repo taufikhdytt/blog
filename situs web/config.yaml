@@ -85,21 +85,21 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
+    - degree: "sd/mi"
+      branch: "sekadau"
+      university: "sd"
+      startedyear: "2010"
+      graduation: "2016"
     - degree: "Degree"
       branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+      university: "sma/smk"
+      startedyear: "2016"
+      graduation: "2019"
+    - degree: "sma/smk"
+      branch: "pasirian"
+      university: "smk negeri pasirian"
+      startedyear: "2019"
+      graduation: "_"
 
   # Projects
   disable_projects: false
@@ -129,7 +129,8 @@ params:
   # Contact
   disable_contact: false
   contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-  email: "example@mail.com"
+  email: "topik11.aa11@gmail.com"
+number phone: "085730384906"
 
   # Footer
   socialiconfooter: true
